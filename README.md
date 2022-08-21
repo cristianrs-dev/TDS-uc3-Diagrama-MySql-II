@@ -1,4 +1,7 @@
 #DIAGRAMA ER DE MODELAGEM FISICA PARA UM DATABASE DE UMA CLINICA
+![Captura de Tela (361)](https://user-images.githubusercontent.com/58758617/185773259-04a8e722-124d-4380-9c62-159db903796d.png)
+
+
 
 sAtividade 2 - Clique aqui para entregar
 Atividade 2
@@ -11,9 +14,7 @@ No hospital, as internações têm sido registradas por meio de formulários ele
 Também é necessário controlar quais profissionais de enfermaria estarão responsáveis por acompanhar o paciente durante sua internação. Para cada enfermeiro(a), é necessário nome, CPF e registro no conselho de enfermagem (CRE).
 A internação, obviamente, é vinculada a um paciente – que pode se internar mais de uma vez no hospital – e a um único médico responsável.
 O seguinte excerto de Diagrama ER modela esses novos requisitos:
-
-
-
+![image](https://user-images.githubusercontent.com/58758617/185773207-a80731c3-dd40-4db7-880d-a649168b88d9.png)
 
 Realize os seguintes passos:
 •	Faça a ligação do diagrama acima ao diagrama desenvolvido na Atividade 1, construindo relacionamentos com entidades relacionadas.
